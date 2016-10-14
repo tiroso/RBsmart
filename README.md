@@ -19,7 +19,6 @@ ganzen Baustein entschieden ob Automatisierungen ein- oder ausgeschaltet sind</l
 Akiviert das Automatische Hoch-/Runterfahren mit der angegebenen Zeit</li>
 <li><i>Auto(Up|Down)Time</i> HH:MM<br>
 Uhrzeit zum Hoch-/Runterfahren (Default: UP->09:00 DOWN->20:00)</li>
-<li><i>Auto(Up|Down)Dynamic</i> (None|REAL|civil|naut|astro)<br>
 <li><i>Auto(Up|Down)Dynamic</i> (None|REAL|CIVIL|NAUTIC|ASTRONOMIC)<br>
 Bestimmt das dynamische hoch und runterfahren. Verschiedene Modi wählbar.</li>
 </ul>
